@@ -31,5 +31,12 @@ Create a script that adds execute permission to all subdirectories of the curren
 
 Create a script that creates a directory called **my_dir** with permissions 751 in the working directory
 
-Write a script that changes the group owner to *school* for the file **hello*
+Write a script that changes the group owner to *school* for the file **hello**
 
+Write a script that changes the owner to *vincent* and the group owner to *staff* for all the files and directorie in the working directory
+
+Write a script that changes the owner and the group owner of **_hello** to *vincent* and *staff* respectively.
+
+Write a script that changes the woner of the file **hello** to *betty* only if it is owned by the user *guillaume*
+
+Write a script that will play the StarWars IV episode in the terminal
