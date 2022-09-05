@@ -11,3 +11,5 @@ Display the content of **/etc/passwd** and **/etc/hosts**
 Display the last ten lines of **/etc/passwd**
 
 Display the first ten lines of **/etc/passwd**
+
+Write a script that displays the third line of the file **iacta**
